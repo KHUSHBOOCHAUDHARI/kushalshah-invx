@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ContactManagementSys</string>
+    <string name="enter_password_txt">Enter Password</string>
+    <string name="enter_username_txt">Enter Username</string>
+    <string name="remember_me_txt">Remember Me</string>
+    <string name="forgot_password_txt">Forgot Password?</string>
+    <string name="login_txt">Login</string>
+
+    <string name="create_account_txt">Create Account</string>
+    <string name="enter_firstname_txt">Enter First Name</string>
+    <string name="enter_name_txt">Enter Name</string>
+    <string name="enter_lastname_txt">Enter Last Name</string>
+    <string name="enter_emailid_txt">Enter Email Id</string>
+    <string name="welcome_txt">Welcome</string>
+    <string name="back_txt">Back</string>
+    <string name="sign_up_txt">SignUp</string>
+
+</resources>

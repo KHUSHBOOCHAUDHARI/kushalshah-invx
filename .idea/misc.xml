@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/91832/AndroidStudioProjects/ContactManagementSys/app/src/main/res/drawable/strock_min_rount_cornar_new.xml" value="0.1185" />
+        <entry key="..\:/Users/91832/AndroidStudioProjects/ContactManagementSys/app/src/main/res/drawable/strock_min_rount_cornar_new_tran.xml" value="0.1185" />
+        <entry key="..\:/Users/91832/AndroidStudioProjects/ContactManagementSys/app/src/main/res/layout/activity_edit_contact.xml" value="0.2" />
+        <entry key="..\:/Users/91832/AndroidStudioProjects/ContactManagementSys/app/src/main/res/layout/activity_login.xml" value="0.18" />
+        <entry key="..\:/Users/91832/AndroidStudioProjects/ContactManagementSys/app/src/main/res/layout/activity_main.xml" value="0.16209371042634022" />
+        <entry key="..\:/Users/91832/AndroidStudioProjects/ContactManagementSys/app/src/main/res/layout/activity_sign_up.xml" value="0.16417272338606242" />
+        <entry key="..\:/Users/91832/AndroidStudioProjects/ContactManagementSys/app/src/main/res/layout/contact_info.xml" value="0.1633176571184267" />
+        <entry key="..\:/Users/91832/AndroidStudioProjects/ContactManagementSys/app/src/main/res/layout/data_list.xml" value="0.33" />
+        <entry key="..\:/Users/91832/AndroidStudioProjects/ContactManagementSys/app/src/main/res/layout/single_contact_view.xml" value="0.1633176571184267" />
+        <entry key="..\:/Users/91832/AppData/Local/Android/Sdk/platforms/android-33/data/res/layout/simple_list_item_2.xml" value="0.16417272338606242" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
